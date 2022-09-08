@@ -1,13 +1,9 @@
 #include <stdio.h>
 #include <unistd.h>
 
-
-
 /**
- *
  * main - Prints a quote
- * Return: Always 0 (Success)
- *   
+ * Return: Always 0 (Success)   
  */
 
 int main(void)
