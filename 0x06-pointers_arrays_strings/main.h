@@ -1,4 +1,4 @@
-#ifndef FILE_MAIN
+#ifndef FILE_MAIN.H
 
 #define FILE_MAIN.H
 
