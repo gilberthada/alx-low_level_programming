@@ -21,7 +21,6 @@ int isPrintableASCII(int n)
  * @b: string to print
  * @start: starting position
  * @end: ending position
-
  */
 
 void printHexes(char *b, int start, int end)
