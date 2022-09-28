@@ -102,3 +102,4 @@ char *move_char(char *s2)
 	else
 
 		return (s2);
+}
